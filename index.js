@@ -1,0 +1,1 @@
+document.getElementById("li")[2].style.color="pink";
